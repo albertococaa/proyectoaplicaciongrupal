@@ -1,0 +1,56 @@
+POST http://localhost:443/api/auth/login
+Content-Type: application/json
+
+{
+
+    "email": "pablo.izquierdo2@live.u-tad.com",
+    "password": "hola1234"
+  
+}
+
+###
+
+POST http://localhost:443/api/auth/code
+Content-Type: application/json
+
+{
+
+    "_id": "65d39314c1f7f0c0f8187b82",
+    "recoveryCode": 914002
+  
+}
+
+###
+
+POST http://localhost:443/api/auth/password/email
+Content-Type: application/json
+
+{
+
+    "email": "pablo.izquierdo2@live.u-tad.com"
+  
+}
+
+###
+
+POST http://localhost:443/api/auth/password/code
+Content-Type: application/json
+
+{
+
+    "email": "pablo.izquierdo2@live.u-tad.com",
+    "recoveryCode": 372962
+  
+}
+
+###
+
+POST http://localhost:443/api/auth/password/password
+Content-Type: application/json
+
+{
+
+    "email": "pablo.izquierdo2@live.u-tad.com",
+    "newPassword": "pablo"
+  
+}

@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1,
+        "title": "Foro de Diseño de Interfaces",
+        "description": "Participa en discusiones sobre diseño de interfaces y experiencia de usuario.",
+        "imgUrl": "/1.png",
+        "tag": [
+            "All",
+            "Diseño digital",
+            "UI/UX"
+        ],
+        "ubicacion": "Online",
+        "Fecha": "2024-06-15",
+        "Espacio": "Foro en línea",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 2,
+        "title": "Taller de Animación 3D",
+        "description": "Aprende técnicas de animación 3D utilizando software especializado.",
+        "imgUrl": "/2.png",
+        "tag": [
+            "All",
+            "Animacion",
+            "Efectos Visuales"
+        ],
+        "ubicacion": "Presencial",
+        "Fecha": "2024-07-10",
+        "Espacio": "Estudio de animación",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 3,
+        "title": "Desarrollo de Videojuegos",
+        "description": "Explora el proceso de desarrollo de videojuegos desde la concepción hasta la implementación.",
+        "imgUrl": "/3.png",
+        "tag": [
+            "All",
+            "Videojuegos",
+            "Programación"
+        ],
+        "ubicacion": "Presencial",
+        "Fecha": "2024-08-05",
+        "Espacio": "Salón de conferencias",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 4,
+        "title": "Ingeniería de Realidad Virtual",
+        "description": "Sumérgete en el mundo de la realidad virtual y aprende a desarrollar experiencias inmersivas.",
+        "imgUrl": "/4.png",
+        "tag": [
+            "All",
+            "Realidad Virtual",
+            "Ingenieria"
+        ],
+        "ubicacion": "Online",
+        "Fecha": "2024-09-20",
+        "Espacio": "Plataforma de conferencias virtuales",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 5,
+        "title": "Taller de Efectos Visuales en Cine",
+        "description": "Descubre cómo se crean los efectos visuales en el cine y aprende a aplicarlos en tus proyectos.",
+        "imgUrl": "/5.png",
+        "tag": [
+            "All",
+            "Efectos Visuales",
+            "Cine"
+        ],
+        "ubicacion": "Presencial",
+        "Fecha": "2024-10-15",
+        "Espacio": "Estudio de postproducción",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 6,
+        "title": "Matemáticas Aplicadas al Diseño",
+        "description": "Explora la relación entre las matemáticas y el diseño digital en este curso práctico.",
+        "imgUrl": "/6.png",
+        "tag": [
+            "All",
+            "Matematicas",
+            "Diseño digital"
+        ],
+        "ubicacion": "Online",
+        "Fecha": "2024-11-10",
+        "Espacio": "Aula virtual",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 7,
+        "title": "Foro de Diseño Gráfico",
+        "description": "Comparte tus trabajos, recibe retroalimentación y aprende nuevas técnicas de diseño gráfico.",
+        "imgUrl": "/7.png",
+        "tag": [
+            "All",
+            "Diseño digital",
+            "Graphic Design"
+        ],
+        "ubicacion": "Online",
+        "Fecha": "2024-12-05",
+        "Espacio": "Foro en línea",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 8,
+        "title": "Workshop de Ilustración Digital",
+        "description": "Perfecciona tus habilidades de ilustración digital y descubre nuevas técnicas creativas.",
+        "imgUrl": "/8.png",
+        "tag": [
+            "All",
+            "Ilustración",
+            "Diseño digital"
+        ],
+        "ubicacion": "Presencial",
+        "Fecha": "2025-01-15",
+        "Espacio": "Taller de arte digital",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 9,
+        "title": "Curso de Fotografía Creativa",
+        "description": "Aprende los fundamentos de la fotografía y explora técnicas avanzadas para crear imágenes impactantes.",
+        "imgUrl": "/9.png",
+        "tag": [
+            "All",
+            "Fotografía",
+            "Arte"
+        ],
+        "ubicacion": "Presencial",
+        "Fecha": "2025-02-20",
+        "Espacio": "Estudio fotográfico",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 10,
+        "title": "Charla sobre Diseño Inclusivo",
+        "description": "Descubre la importancia del diseño inclusivo y cómo aplicarlo en tus proyectos.",
+        "imgUrl": "/10.png",
+        "tag": [
+            "All",
+            "Diseño digital",
+            "Inclusión"
+        ],
+        "ubicacion": "Online",
+        "Fecha": "2025-03-10",
+        "Espacio": "Plataforma de conferencias virtuales",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 11,
+        "title": "Taller de Diseño de Productos",
+        "description": "Aprende a diseñar productos centrados en el usuario y a crear prototipos efectivos.",
+        "imgUrl": "/11.png",
+        "tag": [
+            "All",
+            "Diseño de productos",
+            "UI/UX"
+        ],
+        "ubicacion": "Presencial",
+        "Fecha": "2025-04-05",
+        "Espacio": "Taller de diseño",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 12,
+        "title": "Introducción al Diseño Web",
+        "description": "Domina los fundamentos del diseño web y crea sitios web atractivos y funcionales.",
+        "imgUrl": "/12.png",
+        "tag": [
+            "All",
+            "Diseño web",
+            "Frontend"
+        ],
+        "ubicacion": "Online",
+        "Fecha": "2025-05-20",
+        "Espacio": "Aula virtual",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 13,
+        "title": "Taller de Storytelling Visual",
+        "description": "Aprende a contar historias visualmente efectivas utilizando técnicas de narrativa visual.",
+        "imgUrl": "/13.png",
+        "tag": [
+            "All",
+            "Narrativa",
+            "Diseño digital"
+        ],
+        "ubicacion": "Presencial",
+        "Fecha": "2025-06-10",
+        "Espacio": "Estudio de producción",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    },
+    {
+        "id": 14,
+        "title": "Curso de Arte Digital",
+        "description": "Explora las técnicas y herramientas del arte digital y crea obras impresionantes.",
+        "imgUrl": "/14.png",
+        "tag": [
+            "All",
+            "Arte",
+            "Diseño digital"
+        ],
+        "ubicacion": "Online",
+        "Fecha": "2025-07-15",
+        "Espacio": "Aula virtual",
+        "Asistentes Requeridos": [],
+        "Asistentes Opcionales": []
+    }
+]

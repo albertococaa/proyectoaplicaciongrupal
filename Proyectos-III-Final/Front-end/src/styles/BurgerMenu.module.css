@@ -1,0 +1,35 @@
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: blue;
+    transform: translateX(-101%);
+    transition: transform 0.3s ease;
+}
+
+.menu.open {
+    transform: translateX(0);
+    width: 20%;
+}
+@media screen and (max-width: 768px) {
+    .menu.open {
+        width: 100%;
+    }
+    
+}
+
+.ul {
+    list-style-type: none;
+}
+
+.li {
+    margin-bottom: 10px;
+}
+
+.burger {
+    position: relative;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
